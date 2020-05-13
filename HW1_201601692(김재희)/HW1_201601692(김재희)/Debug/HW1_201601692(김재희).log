@@ -1,0 +1,6 @@
+﻿  HW1_201601692(김재희).cpp
+C:\Users\COM\Downloads\HW1_201601692(김재희)\HW1_201601692(김재희)\HW1_201601692(김재희).cpp(155,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\COM\Downloads\HW1_201601692(김재희)\HW1_201601692(김재희)\HW1_201601692(김재희).cpp(194,9): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+C:\Users\COM\Downloads\HW1_201601692(김재희)\HW1_201601692(김재희)\HW1_201601692(김재희).cpp(193,17): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  LINK : C:\Users\COM\Downloads\HW1_201601692(김재희)\Debug\HW1_201601692(김재희).exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  HW1_201601692(김재희).vcxproj -> C:\Users\COM\Downloads\HW1_201601692(김재희)\Debug\HW1_201601692(김재희).exe
