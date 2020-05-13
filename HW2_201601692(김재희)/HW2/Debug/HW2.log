@@ -1,0 +1,68 @@
+﻿  HW2.cpp
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(252,37): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(253,37): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(254,37): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(371,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(372,58): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(372,32): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(407,12): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(407,56): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(427,12): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(427,56): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(432,34): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(440,33): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(445,33): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(458,32): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(515,41): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(517,28): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(518,29): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(608,38): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(624,42): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(635,28): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(637,31): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1helper.h(152,50): warning C4838: 'Type'에서 'FLOAT'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              Type=int
+          ]
+C:\Users\COM\source\repos\HW2_201601692(김재희)\HW2\HW2.cpp(521): message : 컴파일되는 함수 템플릿 인스턴스화 'D2D1::TypeTraits<int>::Rect D2D1::Rect<int>(Type,Type,Type,Type)'에 대한 참조를 확인하세요.
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1helper.h(152,50): warning C4244: '초기화 중': 'Type'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1helper.h(152,56): warning C4838: 'Type'에서 'FLOAT'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1helper.h(152,56): warning C4244: '초기화 중': 'Type'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1helper.h(152,61): warning C4838: 'Type'에서 'FLOAT'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1helper.h(152,61): warning C4244: '초기화 중': 'Type'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1helper.h(152,68): warning C4838: 'Type'에서 'FLOAT'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1helper.h(152,68): warning C4244: '초기화 중': 'Type'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              Type=int
+          ]
+  HW2.vcxproj -> C:\Users\COM\source\repos\HW2_201601692(김재희)\Debug\HW2.exe
